@@ -1,0 +1,10 @@
+module.exports={
+    FILETPES:{CSV:'csv',XML:'xml'},
+    XML_PARENT_TAG:'userdetails',
+    INDEX_ZERO:0,
+    ALGORITHM:{AES256:'aes256'},
+    RANDOM_BYTES_16:16,
+    SECURITY_KEY_32_BYTES:32,
+    UNIQUECODES:{UTF_8:'utf-8'},
+    ENCRYPTION_FORMAT:{HEX:'hex'}
+}

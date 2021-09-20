@@ -1,0 +1,28 @@
+{
+  "name": "servicetwo",
+  "version": "1.0.0",
+  "description": "service two to store read and update user details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prakash.k",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "fastify": "^3.21.1",
+    "joi": "^17.4.2",
+    "js2xmlparser": "^4.0.1",
+    "json-2-csv": "^3.14.4",
+    "json2csv": "^5.0.6",
+    "mongoose": "^6.0.6",
+    "protobufjs": "^6.11.2",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23",
+    "xml2json": "^0.12.0"
+  }
+}
